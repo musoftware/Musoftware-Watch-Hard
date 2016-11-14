@@ -1,0 +1,29 @@
+C:\Users\MU\AppData\Local\Temporary Projects\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.exe.config
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.exe.config
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.exe
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.pdb
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.csprojResolveAssemblyReference.cache
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.Frmmain.resources
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.Properties.Resources.resources
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.csproj.GenerateResource.Cache
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.exe
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.pdb
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Tracker.dll
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Tracker.pdb
+F:\Production\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.FrmAbout.resources
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.exe.config
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.exe
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Musoftware Watch Hard.pdb
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Tracker.dll
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\Tracker.pdb
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.csprojResolveAssemblyReference.cache
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.FrmAbout.resources
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.Frmmain.resources
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.FrmOption.resources
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware_Watch_Hard.Properties.Resources.resources
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.csproj.GenerateResource.Cache
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.exe
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\obj\Debug\Musoftware Watch Hard.pdb
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\FastColoredTextBox.dll
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\FastColoredTextBox.pdb
+F:\123NewLive\Musoftware Watch Hard\Musoftware Watch Hard\bin\Debug\FastColoredTextBox.xml
